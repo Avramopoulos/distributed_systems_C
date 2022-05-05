@@ -1,5 +1,5 @@
 # distributed_systems_C
-To run compile this program see the screenshot.pdf where it shows how the programmed is used,compiled and run.
+To compile and run this program see the screenshot.pdf where it shows how the programmed is used,compiled and run.
 Description of the project:
 There are 3 main files ask1_client.c,ask1_client_soc.c,ask1_server.c
 
